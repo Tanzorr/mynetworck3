@@ -1,0 +1,17 @@
+
+.asade{
+    padding: 10px 0px;
+}
+
+nav{
+    margin-right: 15px;
+}
+ul li{
+    list-style-type: none;
+
+}
+
+ul li a{
+    color: green;
+    text-decoration: none;
+}

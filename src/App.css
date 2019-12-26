@@ -6,3 +6,18 @@
 .row{
   display: flex;
 }
+
+
+.header, .footer{
+  background: green;
+}
+
+.asade{
+  background: yellow;
+}
+
+.content{
+  display: flex;
+  background: lightgray;
+  width: 100%;
+}
